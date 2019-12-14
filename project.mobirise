@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MansonFamily",
-    "currentPage": "index.html",
+    "currentPage": "bib.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -18,7 +18,7 @@
         "display2Font": "Noto Serif",
         "display2Size": 3,
         "display5Font": "Cormorant Garamond",
-        "display5Size": "2.5",
+        "display5Size": "1.4",
         "display7Font": "Cormorant Garamond",
         "display7Size": "1.4",
         "display4Font": "SpicyRice-Regular",
